@@ -5,7 +5,7 @@
     "client_secret": "637c2c993cccf79c51a0a215f538932edfdcb9b0",
     "title": "Sh1ro4的博客",
     "instruction": "失败总是贯穿人生始终",
-    "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "server_link": "http://blog-api.xiaotian.buzz/gh-oauth-server.php",
     "filter": {
         "creator": "all",
         "state": "open"
